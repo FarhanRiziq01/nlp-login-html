@@ -1,0 +1,3 @@
+Pertanyaan,Jawaban,Akurasi
+apa yang maksud dengan bijak tuju guna dalam konteks login html,kebijakan pemberitahuan login adalah aturan yang menentukan kapan dan bagaimana pengguna diberitahu tentang aktivitas masuk yang mencurigakan atau tidak sah,0.99997556
+apa itu bijak kontrol akses dalam konteks login html,kebijakan peran pengguna adalah aturan yang menentukan hak akses dan kewenangan yang dimiliki oleh pengguna berdasarkan peran atau level akses tertentu dalam sistem,0.99994195
